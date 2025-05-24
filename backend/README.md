@@ -1,1 +1,1 @@
-uvicorn app:app --reload
+source .venv/bin/activate && uvicorn app:app --reload
